@@ -53,7 +53,7 @@
   <a href="https://www.linkedin.com/in/sivaraghavi-u-r-15b1b5227/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://instagram.com/YOUR_INSTAGRAM" target="_blank">
+  <a href="https://instagram.com/_zzivaa6_" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="mailto:sivaraghavi6103@gmail.com" target="_blank">
